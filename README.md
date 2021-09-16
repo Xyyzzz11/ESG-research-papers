@@ -1,8 +1,20 @@
 # ESG-research-papers
+* Academic
+    * Responsible investing: The ESG-Efficient Frontier AQR  
+    * ESG Investing: From Sin Stocks to Smart Beta
+    * Aggregate Confusion: The Divergence of ESG Ratings 
+    * Mandatory CSR and Sustainability Reporting Economic Analysis and Literature Review
+    
+* Industry
+    * MSCI
+      Research_Insight_Factor_Investing_and_ESG_Integration
+      MSCI ESG Research Insight_Optimizing ESG Factors in Portfolio Construction (2013,Feb)
+    * SASB
+    * Syntao
+    * HKQAA
+    
 
-1. Responsible investing: The ESG-Efficient Frontier AQR  
-2. ESG Investing: From Sin Stocks to Smart Beta
-3. MSCI
-4. SASB
-5. Syntao in China6. 
-7. Aggregate Confusion: The Divergence of ESG Ratings (天风第142期： ESG投资：从罪恶股到Smart Beta )
+
+
+
+
