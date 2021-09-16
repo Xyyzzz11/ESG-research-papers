@@ -3,3 +3,4 @@
 1. Responsible investing: The ESG-Efficient Frontier AQR
 2. MSCI
 3. SASB
+4. Syntao in China
